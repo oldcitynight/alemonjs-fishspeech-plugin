@@ -75,17 +75,3 @@ yarn add alemonjs-fishspeech -W
 apps:
   alemonjs-fishspeech: true # 启动扩展
 ```
-
-## 免责声明
-
-- 勿用于以盈利为目的的场景
-
-- 代码开放，无需征得特殊同意，可任意使用。能备注来源最好，但不强求
-
-- 图片与其他素材均来自于网络，仅供交流学习使用，如有侵权请联系，会立即删除
-
-## 引用
-
-|                              Nickname                               | Contribution |
-| :-----------------------------------------------------------------: | ------------ |
-| [XutheringWavesUID](https://github.com/Loping151/XutheringWavesUID) | API来源      |
