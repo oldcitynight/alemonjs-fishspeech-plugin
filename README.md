@@ -1,12 +1,6 @@
 # 阿柠檬-fish-speech
 
-必要环境 `nodejs` 、`redis` 、`chrome`
-
-该扩展推荐使用`alemongo`或`alemondesk`作为生产环境
-
-`alemongo` https://github.com/lemonade-lab/alemongo
-
-`alemondesk` https://github.com/lemonade-lab/alemondesk
+文字转语音
 
 ## 配置说明
 
@@ -24,9 +18,11 @@ alemonjs-fishspeech:
     name: 'FishSpeech'
 ```
 
-## 安装方式1: Git
-
 ### alemongo/alemondesk
+
+`alemongo` https://github.com/lemonade-lab/alemongo
+
+`alemondesk` https://github.com/lemonade-lab/alemondesk
 
 - 地址
 
@@ -44,29 +40,6 @@ https://ghfast.top/https://github.com/loneyclown/alemonjs-fishspeech.git
 
 ```sh
 release
-```
-
-### 本地
-
-```sh
-git clone -b release --depth=1 https://github.com/loneyclown/alemonjs-fishspeech.git ./packages/alemonjs-fishspeech
-```
-
-```sh
-yarn install #开始模块化
-```
-
-- alemon.config.yaml
-
-```yaml
-apps:
-  alemonjs-fishspeech: true # 启动扩展
-```
-
-## 安装方式2: npm
-
-```sh
-yarn add alemonjs-fishspeech -W
 ```
 
 - alemon.config.yaml

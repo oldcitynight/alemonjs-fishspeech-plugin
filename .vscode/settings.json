@@ -9,11 +9,6 @@
   "editor.insertSpaces": true,
   "editor.detectIndentation": false,
   
-  // TypeScript 配置
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "typescript.suggest.autoImports": true,
-  "typescript.suggest.completeFunctionCalls": true,
-  
   // ESLint 配置
   "eslint.workingDirectories": [
     "./",
